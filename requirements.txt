@@ -8,7 +8,6 @@ underthesea
 regex
 demoji
 pyvi
-string
 wordcloud
 time
 sklearn
