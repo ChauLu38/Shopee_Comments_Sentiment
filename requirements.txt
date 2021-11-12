@@ -9,6 +9,5 @@ regex
 demoji
 pyvi
 wordcloud
-time
 sklearn
 os
