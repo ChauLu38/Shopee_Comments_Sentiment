@@ -16,7 +16,7 @@ Original file is located at
 ###**1. EDA**
 
 # Commented out IPython magic to ensure Python compatibility.
-import random
+# import random
 import seaborn as sns
 import numpy as np
 import pandas as pd
