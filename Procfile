@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run shopee_sentiments_step3.py
